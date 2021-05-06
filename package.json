@@ -1,0 +1,25 @@
+{
+  "name": "pdf-node",
+  "version": "1.0.0",
+  "description": "Gerando pdf com NODEJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalessalazar/pdf-node.git"
+  },
+  "author": "Thales Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalessalazar/pdf-node/issues"
+  },
+  "homepage": "https://github.com/thalessalazar/pdf-node#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "path": "^0.12.7"
+  }
+}
